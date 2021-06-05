@@ -5,7 +5,7 @@
   "private": false,
   "scripts": {
     "start": "node index.js",
-    "start:dev": "webpack",
+    "start:dev": "webpack-dev-server",
     "unit-test": "nyc mocha",
     "lint": "gulp lint",
     "build": "gulp build",

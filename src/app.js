@@ -11,6 +11,7 @@ import store from './core/store';
 import 'sass/app.scss';
 import App from './App/index';
 
+
 initReactFastclick();
 
 ReactDOM.render(
