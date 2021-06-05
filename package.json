@@ -115,7 +115,7 @@
   "bugs": {
     "url": "https://github.com/javii42/QChain/issues"
   },
-  "homepage": "https://javii42.github.io/QCHain-Pages",
+  "homepage": "https://javii42.github.io/QChain-Pages",
   "engines": {
     "node": ">=12.14"
   },
